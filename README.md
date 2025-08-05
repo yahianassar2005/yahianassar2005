@@ -18,9 +18,6 @@
 - 🍲 [Recipe Finder](https://github.com/yahianassar2005/recipefinder)
 - 💰 [Budget App](https://github.com/yahianassar2005/budget-tracker)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 - Email: yahianassar2005@gmail.com
 - LinkedIn: [linkedin.com/in/yahianassar](https://linkedin.com/in/yahianassar2005)
