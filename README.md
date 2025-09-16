@@ -3,7 +3,7 @@
 🎓 I'm a Computer Science student passionate about building projects, learning new technologies, and solving real-world problems with code.
 
 ## 🚀 What I'm Working On
-- 🧾 Building a **budgeting web app** using Spring Boot & HTML
+- 🧾 Analysing AI freelancing market
 - 🔬 Exploring machine learning using Python 
 
 ## 💡 Tech Stack
