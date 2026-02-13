@@ -3,7 +3,8 @@
 🎓 I'm a Computer Science student passionate about building projects, learning new technologies, and solving real-world problems with code.
 
 ## 🚀 What I'm Working On
-- 🧾 learning tensorflow and deep learning technique and working on a NLP project
+- 🧾 learning tensorflow and deep learning technique
+-  working on a NLP project
 - 🔬 Exploring machine learning using Python 
 
 ## 💡 Tech Stack
@@ -15,6 +16,9 @@
 
 ## 📂 Featured Projects
 -  [EDA Freelance AI Market](http://github.com/yahianassar2005/EDA-AI-Salaries-Market)
+-  [Food Vision](https://github.com/yahianassar2005/Food-vision-project)
+-  [Dog Breed](https://github.com/yahianassar2005/dog-breed-model)
+-  [Titanic](https://github.com/yahianassar2005/Titanic-project)
 -  [Vole Machine Simulator](https://github.com/HamzaOmarSaad/GUI-for-vole_machine-final)
 -  [Recipe Finder](https://github.com/yahianassar2005/recipefinder)
 -  [Budget App](https://github.com/yahianassar2005/budget-tracker)
