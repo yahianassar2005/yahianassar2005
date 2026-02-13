@@ -3,7 +3,7 @@
 🎓 I'm a Computer Science student passionate about building projects, learning new technologies, and solving real-world problems with code.
 
 ## 🚀 What I'm Working On
-- 🧾 Analysing AI freelancing market
+- 🧾 learning tensorflow and deep learning technique and working on a NLP project
 - 🔬 Exploring machine learning using Python 
 
 ## 💡 Tech Stack
@@ -14,9 +14,10 @@
 - **Databases:** MySQL, PosgreSQL, MongoDB
 
 ## 📂 Featured Projects
-- 💻 [Vole Machine Simulator](https://github.com/HamzaOmarSaad/GUI-for-vole_machine-final)
-- 🍲 [Recipe Finder](https://github.com/yahianassar2005/recipefinder)
-- 💰 [Budget App](https://github.com/yahianassar2005/budget-tracker)
+-  [EDA Freelance AI Market](http://github.com/yahianassar2005/EDA-AI-Salaries-Market)
+-  [Vole Machine Simulator](https://github.com/HamzaOmarSaad/GUI-for-vole_machine-final)
+-  [Recipe Finder](https://github.com/yahianassar2005/recipefinder)
+-  [Budget App](https://github.com/yahianassar2005/budget-tracker)
 
 ## 📫 Contact Me
 - Email: yahianassar2005@gmail.com
